@@ -164,9 +164,9 @@ header .menu-btn {
 }
 
 header .mobile-nav-menu {
-    position: absolute;
+    position: fixed;
     background: rgb(255, 255, 255);
-    height: calc(100% - 55px);
+    height: 100vh;
     top: 0;
     width: 60%;
     padding: 20px;

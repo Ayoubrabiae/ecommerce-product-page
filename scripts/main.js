@@ -120,7 +120,7 @@ plusBtn.addEventListener('click', plusCount);
 minusBtn.addEventListener('click', minusCount);
 cartBtn.addEventListener('click', () => cartBtn.classList.toggle('active'));
 addToCartBtn.addEventListener('click', () => {
-  const count = Number(countHolder.textContent);
+  const count = Number(productCount.textContent) + Number(countHolder.textContent);
 
   if (count > 0) {
     productCount.textContent = count;

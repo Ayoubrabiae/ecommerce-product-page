@@ -201,7 +201,7 @@ header .mobile-nav-menu::after {
     left: 100%;
     top: 0;
     opacity: 0;
-    transition: opacity var(--duration) ease-in-out;
+    transition: opacity var(--duration) var(--duration) ease-in-out;
 }
 
 header .mobile-nav-menu.active::after {

@@ -13,8 +13,6 @@ This is a solution to the [E-commerce product page challenge on Frontend Mentor]
   - [What I learned](#what-i-learned)
 - [Author](#author)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ## Overview
 
 ### The challenge
@@ -36,7 +34,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution URL](https://ayoubrabiae.github.io/ecommerce-product-page/)
+- Solution URL: [Solution URL](https://www.frontendmentor.io/solutions/ecommerce-product-page-mx_Xhtc0Lh)
 - Live Site URL: [Live site URL](https://ayoubrabiae.github.io/ecommerce-product-page/)
 
 ## My process
